@@ -50,91 +50,31 @@ Container ve VM arasındaki farklar nelerdir :
 VM ler (sanal bilgiseyar’lar) bir işletim sistemini taklit ederek daha büyük sistem gücü ihtiyacı duarak birnevi bir bilgiseyar görevi görür daha karmaşık işlemler yapılabilir ve uygulamalar çalıştırılabilir ama konteynırlar ise bir projenin çalıştırılabilmesi, oluştutulabilmesi için kullanılan sanal bir ortam sağlar çok az sistem gereksimine ihtiyaç duyar aynı eşkilde bir işletim sistemini taklit ederek gerekli araçları ve kütübahaneleri barındırarak projeyi çalıştırır 
 
 Kaynakçalar : 
--DevOps'un iş dünyasında ne gibi katkıları var?-
 
--https://www.techrepublic.com/article/devops-benefits/-
-
--https://www.techrepublic.com/article/devops-guide/-
-
--https://medium.com/devopsturkiye/4-devops-nedir-faydalar%C4%B1-nelerdir-ne-t%C3%BCr-ara%C3%A7lar-kullan%C4%B1r-d9efc9094cb3-
-
-
---DevOps'un workflow'unda ana komponentler neler?--
-
---https://medium.com/@mert-kilicaslan/devops-nedir-8698bc3c6238--
-
---https://coderspace.io/sozluk/devops/--
-
---https://azure.microsoft.com/tr-tr/resources/cloud-computing-dictionary/what-is-devops--
-
-
----DevOps Lifecycle da DevOps fazları neler?---
-
----https://instatus.com/blog/devops-lifecycle---
-
-
-----Trend olan DevOps toolları neler?----
-
-----https://spacelift.io/blog/devops-tools----
-
-----https://medium.com/devopsturkiye/teknolojileri-ile-hayat-kurtaran-32-devops-arac%C4%B1-4eb35b234c88----
-
-
------Başarılı bir DevOps süreci neleri kapsar?-----
-
-
-------Container nedir ve DevOps ile bağı nedir?------
-
-------https://builtin.com/software-engineering-perspectives/containerization------
-
-------https://www.papertrail.com/solution/tips/what-are-containers-and-containerization-in-devops/------
-
-------https://www.docker.com/blog/docker-for-devops/------
-
-------https://www.youtube.com/watch?v=dMJXptcnJoY&t=610s------
-
-------https://www.youtube.com/watch?v=QupPTc-_6-c------
-
-
--------DevOps'da sürüm kontrolü neden çok önemlidir?-------
-
--------https://medium.com/@smitgabani/version-control-source-control-platforms-and-their-role-in-devops-3d115e06a10d-------
-
--------https://www.bmc.com/blogs/devops-source-version-control/-------
-
--------https://unity.com/topics/what-is-version-control-------
-
-
---------CI nedir ?--------
-
---------https://www.bb.com.tr/blog/yazilim-gelistirme/yazilim-gelistirmenin-temel-taslari-cicd-surecleri#:~:text=S%C3%BCrekli%20Entegrasyon%20(CI)%2C%20geli%C5%9Ftiricilerin,kod%20deposuna%20entegre%20etti%C4%9Fi%20uygulamad%C4%B1r.--------
-
---------https://www.datamarket.com.tr/sozluk/ci-cd/--------
-
-
----------CD nedir?---------
-
----------https://spot.io/resources/ci-cd/what-is-ci-cd-continuous-integration-continuous-deployment/---------
-
----------https://about.gitlab.com/topics/ci-cd/---------
-
----------https://www.ibm.com/think/topics/ci-cd-pipeline---------
-
----------https://github.com/resources/articles/devops/ci-cd---------
-
-
-----------HTTP request type'ları nelerdir?----------
-
-----------https://mbilgil0.medium.com/http-metotlar%C4%B1-http-request-methods-90d57d574dfa----------
-
-
------------DevOps da otomasyonun önemi nedir?-----------
-
-
-------------Container ve VM arasındaki farklar nelerdir?------------
-
-------------https://aws.amazon.com/tr/compare/the-difference-between-docker-vm/#:~:text=Sanalla%C5%9Ft%C4%B1r%C4%B1lm%C4%B1%C5%9F%20donan%C4%B1m%20da%20dahil%20olmak,%C3%A7al%C4%B1%C5%9Ft%C4%B1ran%20fiziksel%20bir%20makinenin%20%C3%B6yk%C3%BCnmesi.&text=Container%2C%20uygulama%20kodundaki%20i%C5%9Fletim%20sistemi,uygulama%20kodundaki%20donan%C4%B1m%20ayr%C4%B1nt%C4%B1lar%C4%B1n%C4%B1%20soyutlar.&text=Donan%C4%B1m%20ayr%C4%B1nt%C4%B1lar%C4%B1n%C4%B1%20soyutlamak%20ve%20donan%C4%B1m%20kullan%C4%B1m%C4%B1n%C4%B1%20art%C4%B1rmak.------------
-
-------------https://circleci.com/blog/containers-vs-virtual-machines/------------
-
-------------https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms------------
+https://www.techrepublic.com/article/devops-benefits/
+https://www.techrepublic.com/article/devops-guide/
+https://medium.com/devopsturkiye/4-devops-nedir-faydalar%C4%B1-nelerdir-ne-t%C3%BCr-ara%C3%A7lar-kullan%C4%B1r-d9efc9094cb3
+https://medium.com/@mert-kilicaslan/devops-nedir-8698bc3c6238
+https://coderspace.io/sozluk/devops/
+https://azure.microsoft.com/tr-tr/resources/cloud-computing-dictionary/what-is-devops
+https://instatus.com/blog/devops-lifecycle
+https://spacelift.io/blog/devops-tools
+https://medium.com/devopsturkiye/teknolojileri-ile-hayat-kurtaran-32-devops-arac%C4%B1-4eb35b234c88
+https://builtin.com/software-engineering-perspectives/containerization
+https://www.papertrail.com/solution/tips/what-are-containers-and-containerization-in-devops/
+https://www.docker.com/blog/docker-for-devops/
+https://www.youtube.com/watch?v=dMJXptcnJoY&t=610s
+https://www.youtube.com/watch?v=QupPTc-_6-c
+https://medium.com/@smitgabani/version-control-source-control-platforms-and-their-role-in-devops-3d115e06a10d
+https://www.bmc.com/blogs/devops-source-version-control/
+https://unity.com/topics/what-is-version-control
+https://www.bb.com.tr/blog/yazilim-gelistirme/yazilim-gelistirmenin-temel-taslari-cicd-surecleri#:~:text=S%C3%BCrekli%20Entegrasyon%20(CI)%2C%20geli%C5%9Ftiricilerin,kod%20deposuna%20entegre%20etti%C4%9Fi%20uygulamad%C4%B1r.
+https://www.datamarket.com.tr/sozluk/ci-cd/
+https://spot.io/resources/ci-cd/what-is-ci-cd-continuous-integration-continuous-deployment/
+https://about.gitlab.com/topics/ci-cd/
+https://www.ibm.com/think/topics/ci-cd-pipeline
+https://github.com/resources/articles/devops/ci-cd
+https://mbilgil0.medium.com/http-metotlar%C4%B1-http-request-methods-90d57d574dfa
+https://aws.amazon.com/tr/compare/the-difference-between-docker-vm/#:~:text=Sanalla%C5%9Ft%C4%B1r%C4%B1lm%C4%B1%C5%9F%20donan%C4%B1m%20da%20dahil%20olmak,%C3%A7al%C4%B1%C5%9Ft%C4%B1ran%20fiziksel%20bir%20makinenin%20%C3%B6yk%C3%BCnmesi.&text=Container%2C%20uygulama%20kodundaki%20i%C5%9Fletim%20sistemi,uygulama%20kodundaki%20donan%C4%B1m%20ayr%C4%B1nt%C4%B1lar%C4%B1n%C4%B1%20soyutlar.&text=Donan%C4%B1m%20ayr%C4%B1nt%C4%B1lar%C4%B1n%C4%B1%20soyutlamak%20ve%20donan%C4%B1m%20kullan%C4%B1m%C4%B1n%C4%B1%20art%C4%B1rmak.
+https://circleci.com/blog/containers-vs-virtual-machines/
+https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms
