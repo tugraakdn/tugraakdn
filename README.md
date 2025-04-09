@@ -55,7 +55,7 @@ Konteyner uygulamaları tekbir paket içerisinde hazır şekilde şirket sunucus
 
 ## 7. DevOps'da sürüm kontrolü neden çok önemlidir 
 
-Sürüm kontrol sistemi(VCS) projenin geçmiş versiyonlarını ellerinde bulundururlar yapılan değişiklikleri kimin ne zaman yaptıklarını görebilirler ve önemli olan şu yapılan değişiklikde eklemede var olan bir sorun fark edildiği zaman en kısa zamanda önceki sürüme geçerek var olan sorunu minimum kullanıcıya yansıtarak var olan hatayı düzelterek yeni sürümü tekrar yayınlayabilirler böyle sorunlar olmaması için genelde git kullanarak bölümlere ayrıp o şekilde geliştirmeler yaparak ana kod da var olabilicek hataların önüne geçerler ve tüm geliştirmeler hatasız şekilde gerçekleştirildiğinde ise yeni sürüm olarak yayınlanır. 
+Sürüm kontrol sistemi(VCS) projenin geçmiş versiyonlarını ellerinde bulundururlar yapılan değişiklikleri kimin ne zaman yaptıklarını görebilirler ve önemli olan bu yapılan değişiklikde eklemede var olan bir sorun fark edildiği zaman en kısa zamanda önceki sürüme geçerek var olan sorunu minimum kullanıcıya yansıtarak var olan hatayı düzelterek yeni sürümü tekrar yayınlayabilirler böyle sorunlar olmaması için genelde git kullanarak bölümlere ayrıp o şekilde geliştirmeler yaparak ana kod da var olabilicek hataların önüne geçerler ve tüm geliştirmeler hatasız şekilde gerçekleştirildiğinde ise yeni sürüm olarak yayınlanır. 
 
 ## 8. CI nedir 
 
